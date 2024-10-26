@@ -39,6 +39,7 @@ To enable real-time data visualization, start the API server:
 
 ```bash
 cd API_Server
+npm install
 node api_server.js
 ```
 
@@ -117,6 +118,7 @@ To activate real-time graphical visualization of the agent’s performance:
 1. Start the visualization script:
    ```bash
    cd Graph_Python
+   pip install -r requirements.txt
    python GraphPython.py
    ```
 2. Open the graph page at [http://127.0.0.1:8050/](http://127.0.0.1:8050/)
@@ -143,6 +145,7 @@ To test the API, run the following test script:
 
 ```bash
 cd API_Server
+pip install -r requirements.txt
 python test_api.py
 ```
 
