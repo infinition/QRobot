@@ -1,4 +1,6 @@
-# QRobot
+﻿# QRobot
+
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/infinition)
 
 ![QRobot](https://github.com/user-attachments/assets/d00301be-045d-4131-bbac-2fe1b4eee76b)
 
@@ -85,4 +87,4 @@ python test_api.py
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+MIT. See [LICENSE](LICENSE).
