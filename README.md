@@ -1,4 +1,6 @@
-﻿# QRobot
+<img width="340" height="340" alt="image-removebg-preview (6)" src="https://github.com/user-attachments/assets/1ebe2f7b-98dc-4909-aaf7-eb21c94a7f99" />
+
+ # QRobot
 
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/infinition)
 
