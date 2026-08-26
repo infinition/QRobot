@@ -1,4 +1,6 @@
-<img width="340" height="340" alt="image-removebg-preview (6)" src="https://github.com/user-attachments/assets/1ebe2f7b-98dc-4909-aaf7-eb21c94a7f99" />
+<p align="center">
+  <img src=".github/QRobot.png" alt="QRobot icon" width="340" height="340" />
+</p>
 
  # QRobot
 
